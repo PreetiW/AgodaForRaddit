@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\exploded-aar\com.android.support\design\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.0.1_ba8e1fbaeae3cdab9e93988d56758b85f157d79c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.0.1_32751f667d5bbbc0aba00559bdf37378fcd4155c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.0.1_f07dc67abfd8377780ad8d44ade9651993862f3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.0.1_28fd6b49a645a22005733f8a03f93b828361b41e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_5151a42df3e15af680900f6827313509200fc8fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1108575c7dc7b7f5b378b3290ac90de81a9b8830">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-25.0.1_9108e92dc5625a9bd082e38e5d4a0e89d3558d0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="297d4bcf6ed4e747a1bf7d0d094a2d911a8d3a8e">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.0.1_7ffc400b02149a45486eda63d866feb2f9424c7f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pwadh\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife-annotations\8.0.0\67e564dac5d137ba17cbb464ce66e2bd026ee532\butterknife-annotations-8.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="67e564dac5d137ba17cbb464ce66e2bd026ee532">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\butterknife-annotations-8.0.0_ecb3342d9941dfe0089cd27fb601b14b74a6f09a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pwadh\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.1\support-annotations-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\support-annotations-25.0.1_6d1ea2ef3abb01242f5757397f03210590765fc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.0.1_98adaf4d36d19287e6ccba6d7352b252ab2cf380.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pwadh\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.7.0\9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4\glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\glide-3.7.0_6bf323a9a5d3f2568a3353114a17cb87fe7a6ea9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.0.1_559e564054e94efb9642d3f4471b2a0cdf2ced72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.0.1_b15222caa7cfbd0948a7a7f2b6f8cf5af26ce138.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_89c0fe5e727d67c00786f773faef2169a21d5894.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.0.1_d1da960cb4ec653ce440bc7b98d5440bfba55bcb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.0.1_41019b223bad690a8ca51e5dc4b528375bbf9f5b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_4f0bc752ccb04f1cb8f58fd0863bea5b0d826f34.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9abf11d546d9e0ee82da86df608ced7a961b76ac">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\com.android.support-support-v13-25.0.1_a335d5623aca031ab09020213a3f9de9468b474c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\exploded-aar\com.jakewharton\butterknife\8.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7d631acf622b2631b45af09a3ac1835a14d102f7">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\com.jakewharton-butterknife-8.0.0_93ec934ca87580638ecd2241b7ea3520037256e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\exploded-aar\com.android.support\support-v13\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="cfb91ea7c6890336890ccb42767041af6b863e32">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_0e98836e1527f1d336cd9e6d5406395fe8d28f37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.0.1_0aaad0228f45a4e040bd77bb2ae59b64cf5c7537.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.0.1_220e2a6cf3507603dddbdde900cad6cbf60c76a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_dbc5c53177dae4870f86b06e1cef4d9626b136da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.1\jars\libs\internal_impl-25.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\internal_impl-25.0.1_4e41aaed18928c7711ecf632eb29eec9deff9c48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\pwadh\.gradle\caches\modules-2\files-2.1\com.squareup\javapoet\1.2.0\ad3ba65c1788f4d814a4da056323e2b84412fb3c\javapoet-1.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ad3ba65c1788f4d814a4da056323e2b84412fb3c">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\javapoet-1.2.0_8f229a03b705db276dce3961325523d350bb769e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\exploded-aar\com.android.support\customtabs\25.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2b9f0c5025fb0640ef092b1ca322bf4a4992e1c">
+        <dex dex="D:\Workspace\AgoraForRaddit\AgodaForRaddit\app\build\intermediates\pre-dexed\debug\com.android.support-customtabs-25.0.1_04c51d4b7079d200995570a398a1778f1017f557.jar" />
+    </item>
+
+</items>
